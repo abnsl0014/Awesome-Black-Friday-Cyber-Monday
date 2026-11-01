@@ -150,7 +150,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🗣️ | [Blip AI](https://www.blipai.app/black-friday?utm_source=awesome-bfcm&utm_campaign=black_friday_2026) | AI dictation that types polished text into any app: hold a key, speak, let go. Removes filler words and fixes punctuation as it types. Blip Cloud or on-device Whisper models (Pro). Mac, Windows, Linux, iPhone and Android. | **50% OFF** the first year of Pro (yearly): ~~$144~~ $72 with code **BLACKFRIDAY2026**, Nov 23 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
